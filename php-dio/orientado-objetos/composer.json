@@ -1,0 +1,16 @@
+{
+    "name": "airto/oo",
+    "description": "Estudo do Programação Orientada a Objetos com PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Airton Marinho",
+            "email": "airtonmarinho15@gmail.com"
+        }
+    ],
+    "require": {}
+}
