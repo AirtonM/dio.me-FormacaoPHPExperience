@@ -4,7 +4,7 @@
 
     class UserModel extends Database
     {
-        public function getUsers($limit)
+        public function getUsers(int $limit) : array
         {  
             return $this->select($limit);
         }
