@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7445da91e5bbb89fc61a3313dca551e6",
+    "packages": [
+        {
+            "name": "airto/digital-cep",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AirtonM/DIGITAL-CEP.git",
+                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AirtonM/DIGITAL-CEP/zipball/5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
+                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Search": "src/"
+                },
+                "psr-4": {
+                    "Wead\\DigitalCep\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Airton Marinho",
+                    "email": "airtonmarinho15@gmail.com"
+                }
+            ],
+            "description": "Busca de CEP online",
+            "support": {
+                "issues": "https://github.com/AirtonM/DIGITAL-CEP/issues",
+                "source": "https://github.com/AirtonM/DIGITAL-CEP/tree/main"
+            },
+            "time": "2023-08-31T01:34:28+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "airto/digital-cep": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

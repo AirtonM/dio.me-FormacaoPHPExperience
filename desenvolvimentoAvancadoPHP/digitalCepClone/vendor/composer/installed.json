@@ -1,0 +1,53 @@
+{
+    "packages": [
+        {
+            "name": "airto/digital-cep",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AirtonM/DIGITAL-CEP.git",
+                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AirtonM/DIGITAL-CEP/zipball/5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
+                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "time": "2023-08-31T01:34:28+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Search": "src/"
+                },
+                "psr-4": {
+                    "Wead\\DigitalCep\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Airton Marinho",
+                    "email": "airtonmarinho15@gmail.com"
+                }
+            ],
+            "description": "Busca de CEP online",
+            "support": {
+                "issues": "https://github.com/AirtonM/DIGITAL-CEP/issues",
+                "source": "https://github.com/AirtonM/DIGITAL-CEP/tree/main"
+            },
+            "install-path": "../airto/digital-cep"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
