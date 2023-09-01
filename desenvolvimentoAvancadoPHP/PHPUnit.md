@@ -22,3 +22,10 @@ Ao mesmo tempo que começar testando tudo, faz com que o sistema seja cada vez m
 ## Hands-on
 Volte ao nosso projeto, e crie testes unitários ***onde for possível***.
 Ao final, gere um relatório de **code covered**, publique a atualização e libere um ***novo release*** com o códio melhorado.
+
+## Getting Started
+Dê o comando para realizar instalação:
+> composer require --dev phpunit/phpunit
+
+Para confirmar se foi instalado corretamente, dê o comando:
+> vendor/bin/phpunit --version

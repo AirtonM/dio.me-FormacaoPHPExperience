@@ -12,16 +12,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/AirtonM/DIGITAL-CEP.git",
-                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c"
+                "reference": "4651b37e5e594a3b8e4194140bdc3ae00b1a95db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AirtonM/DIGITAL-CEP/zipball/5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
-                "reference": "5ed8f8c3f21beafe16e811cbef59d830b4f2842c",
+                "url": "https://api.github.com/repos/AirtonM/DIGITAL-CEP/zipball/4651b37e5e594a3b8e4194140bdc3ae00b1a95db",
+                "reference": "4651b37e5e594a3b8e4194140bdc3ae00b1a95db",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.2.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6"
             },
             "default-branch": true,
             "type": "library",
@@ -48,7 +51,7 @@
                 "issues": "https://github.com/AirtonM/DIGITAL-CEP/issues",
                 "source": "https://github.com/AirtonM/DIGITAL-CEP/tree/main"
             },
-            "time": "2023-08-31T01:34:28+00:00"
+            "time": "2023-09-01T23:34:36+00:00"
         }
     ],
     "packages-dev": [],

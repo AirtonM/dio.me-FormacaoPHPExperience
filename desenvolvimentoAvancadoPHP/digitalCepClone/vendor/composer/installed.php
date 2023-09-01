@@ -3,7 +3,7 @@
         'name' => '__root__',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b81c7ef5e55f37bac8ace3f9692331b8384d2ad1',
+        'reference' => '5319944097d1afa722747bc8c3f2e475900dbb36',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         '__root__' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b81c7ef5e55f37bac8ace3f9692331b8384d2ad1',
+            'reference' => '5319944097d1afa722747bc8c3f2e475900dbb36',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -22,7 +22,7 @@
         'airto/digital-cep' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5ed8f8c3f21beafe16e811cbef59d830b4f2842c',
+            'reference' => '4651b37e5e594a3b8e4194140bdc3ae00b1a95db',
             'type' => 'library',
             'install_path' => __DIR__ . '/../airto/digital-cep',
             'aliases' => array(
